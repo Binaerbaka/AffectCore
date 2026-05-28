@@ -2,10 +2,15 @@
 The core system for affective intelligence
 ## Architecture
 
-core
-memory
-personality
-api
+core/
 
-tests
-examples
+memory/
+
+personality/
+
+api/
+
+
+tests/
+
+examples/
